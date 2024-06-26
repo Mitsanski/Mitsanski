@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- ⚡ Hobbies **Athlete, Motorsports Fan**
+- ⚡ **Athlete and a F1 Fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
