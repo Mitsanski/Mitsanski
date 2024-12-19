@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mitsanski&show_icons=true&locale=en" alt="mitsanski" /></p>
 
